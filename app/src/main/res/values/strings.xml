@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">awty</string>
+    <string name="edt_msg_prompt">Message to Send</string>
+    <string name="edt_phone_num_prompt">Phone Number</string>
+    <string name="edt_interval_prompt">Interval (Minutes)</string>
+    <string name="btn_start">Start</string>
+    <string name="btn_stop">Stop</string>
+    <string name="toast_caption">Texting %1$s</string>
+</resources>
